@@ -12,6 +12,6 @@ I am currently working on a new programming language that compiles to C++ <br>I 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DameHetfield9803&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DameHetfield9803&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=damehetfield9803&label=Profile%20Views&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
