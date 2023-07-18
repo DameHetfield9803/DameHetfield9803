@@ -9,6 +9,7 @@ I am currently working on a new programming language that compiles to C++ <br>I 
 # 📊 GitHub Stats:
 ![DameHetfield9803's GitHub stats](https://github-readme-stats.vercel.app/api?username=damehetfield9803&show_icons=true&theme=radical)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DameHetfield9803)<br/>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DameHetfield9803)](https://github.com/DameHetfield9803) <br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=damehetfield9803&label=Profile%20Views&icon=8&pretty=false)](https://visitcount.itsvg.in)
