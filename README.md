@@ -9,6 +9,9 @@ I am currently working on a new programming language that compiles to C++ <br>I 
 # 📊 GitHub Stats:
 ![DameHetfield9803's GitHub stats](https://github-readme-stats.vercel.app/api?username=damehetfield9803&show_icons=true&theme=radical)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DameHetfield9803)<br/>
+![](https://github-readme-stats.vercel.app/api?username=DameHetfield9803&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DameHetfield9803&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DameHetfield9803&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=damehetfield9803&label=Profile%20Views&icon=8&pretty=false)](https://visitcount.itsvg.in)
