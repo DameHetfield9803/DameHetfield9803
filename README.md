@@ -1,7 +1,7 @@
 # DameFoo
 
 # 💫 About Me:
-I am currently working on a new programming language that compiles to C++ <br>I am also implementing a new JavaScript library with my friend<br>I plan to contribute to other FOSS software in the near future <br> I have also implemented Nginx, phpMyAdmin, Kubernetes and mySql in a single server during the course of my intern. Where I also learnt Ansible, NTP, Crony, RHEL 6 and 7, Ubuntu 22.04 Server and server related hardware. I am also experienced with ESXI and VMWare. <br> I am also experienced in Oracle VirtualBox, Debian, newer Ubuntu versions, Kali Linux, Fedora, Linux Mint, Alpine Linux, Vanilla OS, and OpenSuse TumbleWeed
+I am currently working on a new programming language that compiles to C++ <br>I am also implementing a new JavaScript library with my friend<br>I plan to contribute to other FOSS software in the near future <br> I have also implemented Nginx, phpMyAdmin, Kubernetes and mySql in a single server during the course of my intern. Where I also learnt Ansible, NTP, Crony, RHEL 6 and 7, Ubuntu 22.04 Server and server related hardware. I am also experienced with ESXI and VMWare. <br> I am also experienced in Oracle VirtualBox, Debian, Ubuntu, Kali Linux, Fedora, Linux Mint, Alpine Linux, Vanilla OS, CentOS 6 and 7, and OpenSuse TumbleWeed
 
 
 # 💻 Tech Stack:
